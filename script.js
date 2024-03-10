@@ -10,7 +10,7 @@ const title = document.getElementById("title");
 const cover = document.getElementById("cover");
 
 // Songs titles
-const songs = ["Naina", "Chammak-Challo", "Seven-Nation-Army", "Shell-Shocked"];
+const songs = ["Chammak-Challo", "Seven-Nation-Army", "Shell-Shocked"];
 
 // Keep track of songs
 let songIndex = 0;
